@@ -7,5 +7,6 @@ Questions that I would like to be answered are the following:
   2. How do you change the name of a repository after it already has a name?  ANSWERED
   3. How do you add more branches to a repository?
   4. Please define the following terms (make up the selection where '<>Code' is). 
+Please answer in a committed text file added to this repository.
  
 I am just starting out with GitHub obviously, but also am new to the whole coding subject and would like to learn based on the project-based technique. I'm looking forward to working on GitHub with others in the near future! 
